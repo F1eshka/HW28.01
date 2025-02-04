@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\HW28__01\HW28__01\bin\Debug\net8.0\HW28__01.exe
+C:\Users\Rog\source\repos\HW28__01\HW28__01\bin\Debug\net8.0\HW28__01.deps.json
+C:\Users\Rog\source\repos\HW28__01\HW28__01\bin\Debug\net8.0\HW28__01.runtimeconfig.json
+C:\Users\Rog\source\repos\HW28__01\HW28__01\bin\Debug\net8.0\HW28__01.dll
+C:\Users\Rog\source\repos\HW28__01\HW28__01\bin\Debug\net8.0\HW28__01.pdb
+C:\Users\Rog\source\repos\HW28__01\HW28__01\obj\Debug\net8.0\HW28__01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW28__01\HW28__01\obj\Debug\net8.0\HW28__01.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW28__01\HW28__01\obj\Debug\net8.0\HW28__01.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW28__01\HW28__01\obj\Debug\net8.0\HW28__01.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW28__01\HW28__01\obj\Debug\net8.0\HW28__01.dll
+C:\Users\Rog\source\repos\HW28__01\HW28__01\obj\Debug\net8.0\refint\HW28__01.dll
+C:\Users\Rog\source\repos\HW28__01\HW28__01\obj\Debug\net8.0\HW28__01.pdb
+C:\Users\Rog\source\repos\HW28__01\HW28__01\obj\Debug\net8.0\HW28__01.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW28__01\HW28__01\obj\Debug\net8.0\ref\HW28__01.dll
